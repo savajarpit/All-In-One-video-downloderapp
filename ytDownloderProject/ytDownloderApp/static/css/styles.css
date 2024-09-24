@@ -1,0 +1,26 @@
+body {
+    background-color: #f7f7f7;
+}
+
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.card-title {
+    color: #333;
+}
+
+.btn-primary {
+    background-color: #28a745;
+    border: none;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.btn-primary:hover {
+    background-color: #218838;
+}
+
+.form-control {
+    border-radius: 5px;
+}
